@@ -15,3 +15,4 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 278 Classe Seller
 - 279 Interfaces DepartmentDao e SellerDao
 - 280 SllerDaoJDBC e DaoFactory
+- 281 Implementando findById
