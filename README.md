@@ -17,3 +17,4 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 280 SllerDaoJDBC e DaoFactory
 - 281 Implementando findById
 - 282 Reutilizando a instanciação
+- 283 Implementando findByDepartment
