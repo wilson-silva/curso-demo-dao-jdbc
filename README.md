@@ -19,3 +19,4 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 282 Reutilizando a instanciação
 - 283 Implementando findByDepartment
 - 284 findAll implementation
+- 285 insert implementation
