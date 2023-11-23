@@ -21,4 +21,7 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 284 findAll implementation
 - 285 insert implementation
 - 286 update implementation
+- 287 delete implementation
+- 288 DepartmentDao implementation and test
+
 
