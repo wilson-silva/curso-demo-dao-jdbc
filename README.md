@@ -1,5 +1,5 @@
 # demo-dao-jdbc
-Continuação do curso ministrado pelo Professor Nélio
+Continuação do curso ministrado pelo Professor Nélio - Java COMPLETO 2023 Programação Orientada a Objetos +Projetos
 
 ### Repositório das aulas anteriores:
 https://github.com/wilson-silva/curso-java-udemy
